@@ -31,7 +31,7 @@ Bolo mi zadané vytvoriť aplikáciu, ktorá:
 </td>
 <td>
 
-<img src="zadanie_preview.gif" height="600" width="370" alt="Popis GIF">
+<img src="zadanie_preview.gif" height="600" width="276" alt="Popis GIF">
 
 </td>
 </tr>
