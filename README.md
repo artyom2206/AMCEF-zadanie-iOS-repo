@@ -21,13 +21,6 @@ Bolo mi zadané vytvoriť aplikáciu, ktorá:
 - Prvých 40 výsledkov ukladá do db a vie zobraziť v offline režime.
 - Aspoň jednu z technológií `Combine`/`Rx` a `SwiftUI`.
 
-
-## Použité technológie:
-- **SwiftUI**
-- **Combine**
-- **Core Data**
-- **XCTest**
-
 </td>
 <td>
 
@@ -37,6 +30,11 @@ Bolo mi zadané vytvoriť aplikáciu, ktorá:
 </tr>
 </table>
 
+## Použité technológie:
+- **SwiftUI**
+- **Combine**
+- **Core Data**
+- **XCTest**
 
 ## Technické problémy
 Hneď na začiatku som narazil na problém s dostupnosťou dát z [public-api](https://github.com/davemachado/public-api). Keďže to nie je funkčné, aby som bol schopný dokončiť zadanie použil som web scraping na vytiahnutie všetkých dát. Ďalej som zvažoval vytvorenie vlastného REST API, no najjednoduchšie pre mňa bolo použiť Firebase, kedže podporuje jednoduché server-side sortovanie a filtrovanie json súborov.
